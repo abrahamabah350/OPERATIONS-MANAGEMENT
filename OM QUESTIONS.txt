@@ -1,0 +1,80 @@
+1.) List two examples of top managers.
+2.) What are top managers responsible for?
+3.) List two examples of middle managers.
+4.) What are middle managers responsible for?
+5.) List two examples of first line managers.
+6.) What are first line managers responsible for?
+7.) List two examples of non-managerial employees.
+8.) What are non-managerial employees responsible for?
+9.) Who are organizational stakeholders?
+10.) Organizational stakeholders are categorized into two primary groups, list them.
+11.) Define internal stakeholders.
+12.) Define external stakeholders.
+13.) Define operations management.
+14.) List the tangible inputs in the production process.
+15.) List the intangible inputs in the production process.
+16.) List the processes under transformation.
+17.) List the processes under outputs.
+18.) List the production process definition keywords.
+19.) List the processes under feedback.
+20.) With the aid of a simple diagram explain the production process.
+21.) List and explain the functions of management.
+22.) List the functions of management keywords.
+23.) List 5 internal stakeholders.
+24.) List 5 external stakeholders.
+25.) List the keywords for the job of an operations manager definition.
+26.) Explain the job of an operations manager.
+27.) Explain the essential functions of organizing to produce goods/services.
+28.) List the keywords for productivity definition.
+29.) Define productivity.
+30.) What is the formula for productivity?
+31.) Define production.
+32.) List the job production definition keywords.
+33.) Explain job production and give examples.
+34.) List the advantages of job production.
+35.) List the disadvantages of job production.
+36.) Explain batch production and give examples.
+37.) List the keywords for economies of scale definition.
+38.) Define economies of scale.
+39.) List the advantages of batch production.
+40.) List the disadvantages of batch production.
+41.) List the keywords for flow production definition.
+42.) Define flow production and give examples.
+43.) List the advantages of flow production.
+44.) List the disadvantages of flow production.
+45.) List the keywords for 'choosing a production method'.
+46.) How do you chose a production method?
+47.) List the keywords for supply chain definition.
+48.) Define supply chain.
+49.) List the keywords for supply chain management definition.
+50.) Define supply chain management.
+51.) Draw the flow chart of a supply chain.
+52.) Define project management.
+53.) List and explain the activities under project management.
+54.) Further explain project planning under project management.
+55.) List the keywords for project organization (temporary structure) definition.
+56.) Define project organization (temporary structure).
+57.) List the keywords for "project organization works best when".
+58.) Project organization works best when?
+59.) List the keywords for "the role of the project manager".
+60.) What are the roles of the project manager?
+61.) List the keywords for "ethical issues project managers face".
+62.) What are the ethical issues project managers face?
+63.) List the processes under the work breakdown structure.
+64.) List the keywords for "project scheduling techniques".
+65.) List the project scheduling techniques.
+66.) What are the purposes of project scheduling?
+67.) List the project management techniques according to Mattina.
+68.) List 3 project management software.
+69.) What is quality planning?
+70.) List the keywords in the project quality management definition.
+71.) Define project quality management.
+72.) List the keywords for "Project controlling" definition.
+73.) Define project controlling.
+74.) List and explain "Some Definitions In Quality Management".
+75.) What is Cost of Quality (COQ)?
+76.) Draw the COQ diagram.
+77.) From the COQ diagram explain 'Prevention'.
+78.) From the COQ diagram explain 'Appraisal'.
+79.) From the COQ diagram explain 'Internal Failure'.
+80.) From the COQ diagram explain 'External Failure'.

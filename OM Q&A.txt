@@ -1,0 +1,411 @@
+1.) List two examples of top managers.
+ANS: a.) Board of directors. b.) CEO
+
+2.) What are top managers responsible for?
+ANS: Top managers are responsible for creating the overall strategy and setting long term goals.
+
+3.) List two examples of middle managers.
+ANS: a.) Regional managers. b.) Department heads.
+
+4.) What are middle managers responsible for?
+ANS: Middle managers are responsible for translating strategy into actions.
+
+5.) List two examples of first line managers.
+ANS: a.) Supervisors. b.) Team leaders.
+
+6.) What are first line managers responsible for?
+ANS: First line managers are responsible for managing workers and day to day operations.
+
+7.) List two examples of non-managerial employees.
+ANS: a.) Sales staff. b.) Laborers.
+
+8.) What are non-managerial employees responsible for?
+ANS: Non-managerial employees are responsible for executing the tasks assigned to them.
+
+9.) Who are organizational stakeholders?
+ANS: Organizational stakeholders are individuals or groups that have an interest in an organization and are affected by its decisions.
+
+10.) Organizational stakeholders are categorized into two primary groups. List them.
+ANS: a.) Internal stakeholders. b.) External stakeholders.
+
+11.) Define internal stakeholders.
+ANS: Internal stakeholders are individuals or groups within an organization who have a direct interest in its success and operations. They are actively involved in the organization's activities and are directly affected by its decisions and outcomes.
+
+12.) Define external stakeholders.
+ANS: External stakeholders are individuals or groups outside an organization who are affected by its actions or have an interest in its performance.
+
+13.) Define operations management.
+ANS: Operations management is the set of activities that create value in the form of goods and services by transforming inputs into outputs.
+
+14.) List the tangible inputs in the production process.
+ANS: a.) Customer. b.) Capital. c.) Energy. d.) Labour. e.) Materials. f.) Equipment. g.) Building.
+
+15.) List the intangible inputs in the production process.
+ANS: a.) Time. b.) Experience. c.) Know-how. d.) Skill. e.) Information. f.) Intellectual property.
+
+16.) List the processes under transformation.
+ANS: a.) Materials handling. b.) Conversion process. c.) Production. d.) Altering. e.) Assembly. f.) Inspection.
+
+17.) List the processes under outputs.
+ANS: a.) Finished products. b.) Delivered services.
+
+18.) List the production process definition keywords.
+ANS: a.) Manufacturing goods. b.) Delivering services. c.) Resources. d.) Converting. e.) Continuous improvement. f.) Adjustments. g.) Real world results h.) Customer input.
+
+19.) List the processes under feedback.
+ANS: a.) Control of the operations process. b.) Product development and enhancement. c.) Customer satisfaction.
+
+20.) With the aid of a simple diagram explain the production process.
+ANS: Diagram
+	The production process can be applied to both manufacturing goods and delivering services. The process can be broken down into four main stages:
+		1.) Inputs: Every production process starts with inputs. These are the resources needed to create the desired outputs. Inputs are divided into two categories:
+			- Tangible inputs.
+			- Intangilbe inputs.
+		2.) Transformation: This stage involves converting the inputs into outputs. This is where the actual work of creating the product or delivering the service takes place.
+		3.) Outputs: This is the result of the transformation process. Outputs can be finished products or delivered services.
+		4.) Feedback: This is a critiacl component for continuous improvement. The feedback loop connects back to both the transformative process and the inputs, allowing for adjustments and improvement based on real world results and customer input.
+21.) List and explain the functions of management.
+ANS: 1.) Planning: Planning entails creating and setting the organization's goals and determining how best to achieve them.
+
+     2.) Organizing: Organizing involves the efficient utilization of human and financial resources and other tangible and intangible assets in order to accomplish the plan in place.
+
+
+     3.) Staffing: Staffing involves attracting, recruiting, selecting, training, and retaining of employees.
+
+
+     4.) Leading: Leading involves influencing, encouraging, and communicating with employees to achieve the organization's goals.
+
+
+     5.) Controlling: Controlling involves checking and monitoring activities, and conducting assessments to ensure everything is going as planned. Here, underperformance issues are identified and corrective action is taken to improve performance and productivity.
+
+22.) List the functions of management keywords.
+	cdh, fti, ars, tri, ecm, cupp
+ANS:	a. creating
+		b. determining
+		c. human
+		d. financial resources
+		e. tangible
+		f. intangible assets
+		g. attracting
+		h. recruiting.
+		i. selecting.
+		j. training.
+		k. retaining.
+		l. influencing.
+		m. encourating.
+		n. communicating.
+		o. monitoring.
+		p. conducting.
+		q. underperformance.
+		r. performance.
+		s. productivity.
+
+23.) List 5 internal stakeholders.
+ANS:	a. Board of directors.
+		b. Owners.
+		c. Shareholders.
+		d. Managers.
+		e. Employees.
+
+24.) List 5 external stakeholders.
+ANS:	a. Customers.
+		b. Competitors.
+		c. Communities.
+		d. Suppliers.
+		e. Government.
+
+25.) List the keywords for the job of an operations manager definition.
+ANS:	a. deal.
+		b. production process.
+		c. intermediary.
+		d. operations department.
+
+26.) Explain the job of an operations manager.
+ANS: The job of an operations manager is to deal with the production process and act as an intermediary between the operations departement and the other departments in an organization.
+
+27.) Explain the essential functions of organizing to produce goods/services.
+ANS: 1.) Marketing - generates demand.
+	 2.) Production/Operations - creates the product.
+	 3.) Finance/accounting - tracks how well the organization is doing, pays bills, and collects the money
+
+28.) List the keywords for productivity definition.
+ANS: a. economic.
+     b. efficiency.
+	 c. production.
+
+29.) Define productivity.
+ANS: Productivity is an economic measure of the efficiency of the production of goods and services.
+
+30.) What is the formula for productivity?
+ANS: Productivity = Output/Inputs
+
+31.) Define production.
+ANS: Production is the process of transforming inputs into outpus such as goods and services.
+
+32.) List the job production definition keywords.
+ANS: a. production method.
+     b. one at a time.
+	 c. specific customer requirements.
+
+33.) Explain job production and give examples.
+ANS: Job production is a production method where indiviudal items are produced one at a time, and are often tailored to meet specific customer requirements. Examples include:
+	- tailored clothes.
+	- custom cakes (e.g wedding cakes).
+	- one-off construction projects (e.g yachts).
+
+34.) List the advantages of job production.
+ANS: - flexibility to meet specific customer needs.
+     - High-quality due to customization and attention to detail.
+
+35.) List the disadvantages of job production.
+ANS: - higher production costs due to labor costs and customization requirements.
+     - time consuming processes as each item is crafted individually.
+
+36.) Explain batch production and give examples.
+ANS: Batch production is a production method where items are produced together in groups or batches. Examples include:
+	- baking bread in batches
+	- clothing manufacturing.
+	- pharmaceutical production (e.g batches of pills).
+
+37.) List the keywords for economies of scale definition.
+ANS: - proportionate saving.
+     - level of production.
+	 - fixed costs.
+	 - cost per unit.
+
+38.) Define economies of scale.
+ANS: Economies of scale refers to proportionate saving in costs gained by an increased level of production. For example, spreading fixed costs (e.g rent) over a large number of units reduces the cost per unit.
+
+39.) List the advantages of batch production.
+ANS: - reduces the need for highly skilled workers, as processes can be standardized.
+     - cuts costs due to economies of scale within each batch.
+
+40.) List the disadvantages of batch production.
+ANS: - downtime between batches for reconfiguration can reduce efficiency.
+     - unsold stock from one batch can tie up cash.
+
+41.) List the keywords for flow production definition.
+ANS: - continuous production.
+     - assembly line.
+
+42.) Define flow production and give examples.
+ANS: Flow production involves the continuous production of identical or very similar items, typically on an assembly line. Examples include:
+	- bottled drinks.
+	- cars manufactured on assembly lines.
+	- smartphones.
+
+43.) List the advantages of flow production.
+ANS: - high efficiency due to automation.
+     - lower unit costs because of economies of scale.
+
+44.) List the disadvantages of flow production.
+ANS: - high initial investment in machinery and equipment.
+     - limited flexibility; changes in product design can disrupt the entire process.
+
+45.) List the keywords for 'choosing a production method'.
+ANS: a. hinges.
+     b. type of product.
+	 c. customer's requirements.
+	 d. size of the market.
+
+46.) How do you chose a production method?
+ANS: - The suitable production method hinges on the type of product being made, the customer's requirements, and the size of the market.
+
+47.) List the keywords for supply chain definition.
+ANS: a. people.
+     b. organizations.
+	 c. processes.
+	 d. producing.
+	 e. delivering.
+	 f. product.
+	 g. raw materials.
+	 h. final customer.
+	 
+	 pop, pdp, rf
+
+48.) Define supply chain.
+ANS: - A supply chain is a netword of people, organizations, and processes involved in producing and delivering a product or service, from the initial supply of raw materials to the final customer.
+
+49.) List the keywords for supply chain management definition.
+ANS: a. management.
+     b. optimization.
+	 c. processes.
+	 d. efficiency.
+	 e. profitability.
+	 f. customer satisfaction.
+
+50.) Define supply chain management.
+ANS: This is the management and optimization of all the processes within a supply chain to maximize efficiency, profitability, and customer satisfaction.
+
+51.) Draw the flow chart of a supply chain.
+
+52.) Define project management.
+ANS: Project management is a methodical approach for planning, scheduling, and controlling project processes from start to finish.
+
+53.) List and explain the activities under project management.
+ANS: a. Planning: Planning involes goal setting, defining the project, and team organization.
+     b. Scheduling: Scheduling involves relating people, money, and supplies to specific activities.
+	 c. Controlling: Controlling involves monitoring resources, costs, quality, and budgets.
+
+54.) Further explain project planning under project management.
+ANS: a. Establish objectives.
+     b. Define project.
+	 c. Create work breakdown structure.
+	 d. Determine resources.
+	 e. Form organization (temporary structure within a company that is designed to efficiently execute a specific project).
+
+55.) List the keywords for project organization (temporary structure) definition.
+ANS: a. efficiently.
+     b. specialists.
+	 c. led.
+	 d. maintained permanently.
+	 e. matrix organization.
+	 f. functional.
+	 g. project manager.
+	 h. stability. 
+
+56.) Define project organization (temporary structure).
+ANS: - This is a temporary company structure for efficiently executing a specific project. It is formed by assembling specialists from different departments to leverage their expertise. It is led by the project manager who is responsible for coordinating activities and monitoring schedule and costs. If a project structure is maintained permanently within an organization it evolves into a matrix organization, where employees report to both a functional and a project manager, ensuring stability and flexibility.
+
+57.) List the keywords for "project organization works best when".
+ANS: a. specific goal and deadline.
+     b. unfarmiliar.
+	 c. specialized skills.
+	 d. temporary but critical.
+	 e. organizational lines.
+
+	 wjwpp
+
+58.) Project organization works best when?
+ANS: a. Work can be defined with a specific goal and deadline.
+     b. The job is unfamiliar to the existing organization.
+	 c. The work contains complex tasks requiring specialized skills.
+	 d. The project is temporary but critical to the organization.
+	 e. The project cuts across organizational lines.
+
+59.) List the keywords for "the role of the project manager".
+ANS: The project manager is responsible for making sure that.
+     a. order and on time.
+     b. budget.
+	 c. quality goals.
+	 d. motivation.
+	 e. direction.
+	 f. information.
+
+	 appp
+
+60.) What are the roles of the project manager?
+ANS: - The project manager is responsible for making sure that:
+		a. Necessary activiteis are finished in order and on time.
+		b. The project is within budget.
+		c. The project meets quality goals.
+		d. The people assigned to the project receive motivation, direction, and information.
+
+61.) List the keywords for "ethical issues project managers face".
+ANS: a. contractors.
+     b. status reports.
+	 c. mask delays.
+	 d. time and expenses.
+	 e. compromise quality.
+	 f. meet schedules.
+
+	 opfp
+
+62.) What are the ethical issues project managers face?
+ANS: a. Offers of gifts from contractors.
+     b. Pressure to alter status reports to mask delays.
+	 c. False reports for charges of time and expenses.
+	 d. Pressure to compromise quality to meet schedules.
+
+63.) List the processes under the work breakdown structure.
+ANS: a. Project.
+     b. Major tasks in the project.
+	 c. Subtasks in the major tasks.
+	 d. Activities (or "work packages") to be completed.
+
+64.) List the keywords for "project scheduling techniques".
+ANS: a. activities - planned.
+     b. order of performance - accounted.
+	 c. activity time estimates - recorded.
+	 d. overall project time - developed.
+	 ettt
+
+65.) List the project scheduling techniques.
+ANS: a. Esnure that all activities are planned for.
+     b. Their order of performance is accounted for.
+	 c. The activity time estimates are recorded.
+	 d. The overall project time is developed.
+
+66.) What are the purposes of project scheduling?
+ANS: a. Shows activity relationships within the project.
+     b. Identifies precedence among activities.
+	 c. Promotes realistic time and cost estimates.
+	 d. Optimizes resource use by identifying bottle necks.
+
+67.) List the project management techniques according to Mattina.
+ANS: a. Gantt chart.
+     b. Critical Path Method (CPM).
+	 c. Program Evaluation and Review Technique (PERT).
+
+68.) List 3 project management software.
+ANS: a. Mac Project.
+     b. Mind View.
+	 c. Microsoft Project.
+
+69.) What is quality planning?
+ANS: Quality planning identifies relevant quality standards and how to meet them.
+
+70.) List the keywords in the project quality management definition.
+ANS: a. creating.
+     b. following.
+	 c. policies.
+	 d. procedures
+	 e. defined needs.
+	 f. customer satisfaction.
+	 g. prevention over inspection.
+	 h. management responsibility.
+	 i. continuous improvement.
+
+71.) Define project quality management.
+ANS: Project quality management involves creating and following policies to ensure the project meets its defined needs. It includes:
+	- customer statisfaction.
+	- prevention over inspection.
+	- management responsibility.
+	- continuous improvement.
+
+72.) List the keywords for "Project controlling" definition.
+ANS: a. monitoring.
+     b. ongoing project.
+	 c. stays on track.
+	 d. resources, costs, quality, and budgets.
+	 e. feedback | project plan and allocate resources.
+	 f. computerized tools | generate detailed reports.
+
+73.) Define project controlling.
+ANS: Project controlling refers to monitoring the ongoing project to ensure it stays on track. It involves the following:
+	- Monitoring resources, costs, quality, and budgets.
+	- Using feedback to adjust the project plan and allocate resources.
+	- Using computerized tools to generate detailed reports.
+
+74.) List and explain "Some Definitions In Quality Management".
+ANS: a. Gold Plating: Giving the customer extras (e.g extra functionality).
+     b. Grade: A category assigned to products or services that have the same functional use but different technical characteristics.
+	 c. Quality: Quality refers to how well a product or service meets specified requirements and customer expectations. 
+	 d. Cost-Benefit Analysis: Cost-benefit analysis is a systematic process used to evaluate the strengths and weaknesses of alternatives by comparing the projected or estimated costs and benefits associated with a decision or project. The goal is to determine whether the benefits outweigh the costs and, if so, by how much.
+
+75.) What is Cost of Quality (COQ)?
+ANS: The Cost of Quality (COQ) is a method that allows organizatoins to determine the costs incurred for activities that prevent poor quality, that appraise the quality of the organization's products or services, and that result from internal or external failures.
+
+76.) Draw the COQ diagram.
+
+77.) From the COQ diagram explain 'Prevention'.
+ANS: Costs incurred to prevent defects.
+
+78.) From the COQ diagram explain 'Appraisal'.
+ANS: Costs incurred to identify defects.
+
+79.) From the COQ diagram explain 'Internal Failure'.
+ANS: Costs incurred when deffects are discovered before the product or service reaches the customer.
+
+80.) From the COQ diagram explain 'External Failure'.
+ANS: Costs incurred when defects are discovered after the product or service reaches the customer.

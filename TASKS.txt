@@ -1,0 +1,9 @@
+TASK
+1.) Learn the basic quality tools.
+
+
+- cause and effect diagrams.
+- flowcharts.
+- checksheets.
+- pareto diagrams.
+- histograms

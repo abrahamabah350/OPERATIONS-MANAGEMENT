@@ -1,0 +1,6 @@
+- cause and effect diagrams.
+- flowcharts.
+- checksheets.
+- pareto diagrams.
+- histogram.
+- control chart.

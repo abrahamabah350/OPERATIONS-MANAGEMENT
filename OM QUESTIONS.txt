@@ -78,3 +78,23 @@
 78.) From the COQ diagram explain 'Appraisal'.
 79.) From the COQ diagram explain 'Internal Failure'.
 80.) From the COQ diagram explain 'External Failure'.
+81.) List and explain the basic quality tools.
+82.) What is benchmarking?
+83.) What is Design of Experiments (DOE)?
+84.) Define 'Process Improvement Plan'.
+85.) Define quality metrics.
+86.) What is a quality checklist?
+87.) Define quality assurance.
+88.) List the keywords for "Quality Audit" definition.
+89.) Define Quality Audit.
+90.) List the keywords for "The Objectives of A Quality Audit".
+91.) List the objectives of a quality audit.
+92.) List the keywords for the "Process Analysis" definition.
+93.) Define Process Analysis.
+94.) What is an inspection?
+95.) List the SCM activities.
+96.) List the types of flow in SCM.
+97.) List the SCM decision phases.
+98.) List and explain the process views of a supply chain.
+99.) List the supply chain macro processes in a firm.
+100.) Define product development strategy.

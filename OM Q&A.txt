@@ -288,10 +288,7 @@ ANS: The project manager is responsible for making sure that.
      a. order and on time.
      b. budget.
 	 c. quality goals.
-	 d. motivation.
-	 e. direction.
-	 f. information.
-
+	 d. motivation, direction, and information.
 	 appp
 
 60.) What are the roles of the project manager?
@@ -314,7 +311,7 @@ ANS: a. contractors.
 62.) What are the ethical issues project managers face?
 ANS: a. Offers of gifts from contractors.
      b. Pressure to alter status reports to mask delays.
-	 c. False reports for charges of time and expenses.
+	 c. False reports for charges on time and expenses.
 	 d. Pressure to compromise quality to meet schedules.
 
 63.) List the processes under the work breakdown structure.
@@ -409,3 +406,99 @@ ANS: Costs incurred when deffects are discovered before the product or service r
 
 80.) From the COQ diagram explain 'External Failure'.
 ANS: Costs incurred when defects are discovered after the product or service reaches the customer.
+
+81.) List and explain the basic quality tools.
+ANS: a. Cause and Effect Diagrams: These are used to trace problems back to an actionable root cause.
+     b. Flowcharts: These display the process that transforms inputs into outputs.
+	 c. Checksheets: These are used to organize facts to facilitate the effective collection of data about potential quality problems.
+	 d. Pareto diagrams: These are used for identifying the vital few sources resopnsible for causing most of a problem's effects.
+	 e. Histograms: These are used to describe the central tendency, dispersion and shape of a statistical distribution.
+	 f. Control Chart: Used to determine whether or not a process is stable.
+
+82.) What is benchmarking?
+ANS: Benchmarking involves comparing actual or planned project practices to those of comparable projects to identify best practices, generate ideas for improvement, and provide a basis for measuring performance.
+
+83.) What is Design of Experiments (DOE)?
+ANS: Design of experiments (DOE) is a statistical method used for identifying which factors (e.g paint viscosity) may influence specific variables (e.g paint finish quality) of a product or process under development or in production.
+
+84.) Define 'Process Improvement Plan'.
+ANS: A process improvement plan facilitates the indentification of waste and none-value-added activities to increase customer value.
+
+85.) Define quality metrics.
+ANS: A quality metric describes a project or product attribute and how the quality control process will measure it.
+
+86.) What is a quality checklist?
+ANS: A quality checklist is a structured tool used to verify that a set of required steps have been performed.
+
+87.) Define quality assurance.
+ANS: Quality assurance includes all the activities related to satisfying the relevant quality standards for a project.
+
+88.) List the keywords for "Quality Audit" definition.
+ANS: a. structured.
+     b. independent process.
+	 c. project activities.
+	 d. organizational and project.
+	 e. policies, processes, and procedures.
+
+89.) Define Quality Audit.
+ANS: A quality audit is a structured, independent process to determine if project activities comply with organizational and project policies, processes, and procedures.
+
+90.) List the keywords for "The Objectives of A Quality Audit".
+ANS: a. good and best practices | implemented.
+     b. non-conformity, gaps, and shortcomings.
+	 c. good practices introduced or implemented | similar projects | organization/industry.
+	 d. offer assistance | positive manner | improve implementation | processes | raise productivity.
+iisp
+
+91.) List the objectives of a quality audit.
+ANS: a. Identify all good and best practices being implemented.
+     b. Identify all non-conformity, gaps, and shortcomings.
+	 c. Share good practices introduced or implemented in similar projects in the organization/industry.
+	 d. Proactively offer assistance in a positive manner to improve implementation of processes to help the team raise productivity.
+
+92.) List the keywords for the "Process Analysis" definition.
+ANS: a. process analysis
+     b. follows the steps.
+     c. process improvement plan.
+     d. identify needed improvements.
+	 e. examines.
+	 f. problems experienced, constraints experienced, and non-value-added activities.
+	 g. process operation.
+     h. root cause analysis.
+	 i. identify a probem.
+	 j. disover underlying causes.
+	 k. develop preventive actions.
+
+93.) Define Process Analysis.
+ANS: Process analysis follows the steps outlined in the process improvement plan to identify needed improvements. This analysis examines problems experienced, constraints experienced, and none-value-added activities identified during the process operation. Process analysis includes root cause analysis - a specific technique used to identify a problem, discover the underlying causes that lead to it, and develop preventive actions.
+
+94.) What is an inspection?
+ANS: An inspection is the examination of a product to determine if it conforms to documented standards.
+
+95.) List the SCM activities.
+ANS: a. Inbound and outbound transportation.
+     b. Warehousing and inventory control.
+	 c. Sourcing, procurement, and supply management.
+	 d. Forecasting, production planning, and scheduling.
+
+96.) List the types of flow in SCM.
+ANS: a. Materials flow.
+     b. Information/Data flow.
+	 c. Money flow.
+
+97.) List the SCM decision phases.
+ANS: a. Supply chain strategy/design.
+     b. Supply chain planning.
+	 c. Supply chain operation.
+
+98.) List and explain the process views of a supply chain.
+ANS: a. Cycle View: Categorizes processes in a supply chain into a series of cycles.
+     b. Pull/Push View: Categorizes processes in a supply chain based on whether they are executed in response to a customer order or in anticipation of customer orders.
+
+99.) List the supply chain macro processes in a firm.
+ANS: a. Customer Relationship Management (CRM).
+     b. Internal Supply Chain Management (ISCM).
+	 c. Supplier Relationship Management (SRM).
+
+100.) Define product development strategy.
+ANS: Product development strategy specifies the portfolio of new products that a company will try to develop. It also dictates whether the development effort will be made internally or outsourced.

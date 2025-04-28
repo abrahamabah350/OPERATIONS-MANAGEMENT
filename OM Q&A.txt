@@ -502,3 +502,25 @@ ANS: a. Customer Relationship Management (CRM).
 
 100.) Define product development strategy.
 ANS: Product development strategy specifies the portfolio of new products that a company will try to develop. It also dictates whether the development effort will be made internally or outsourced.
+
+101.) Define 'Manufacturing Systems'.
+ANS: Manufacturing systems refer to the organized arrangements and processes by which raw materials are transformed into finished goods.
+
+102.) List and explain the manufacturing industry groups.
+ANS: a. Primary Industries: Exploits raw materials and resources.
+     b. Secondary Industries: Takes output from primary industries and converts them to consumer goods.
+	 c. Tertiary Industries: Contributes to the service sector of the economy.
+
+103.) List and explain the manufacturing strategies.
+ANS: a. Make To Order: Products are designed, produced, and delivered to customer specifications in response to an order.
+     b. Make To Stock: Products are designed and produced for a standard customer in anticipation of demand.
+	 c. Assemble To Order: A base unit is produced for which options can be added according to customer specifications.
+
+104.) List and explain the types of production processes.
+ANS: a. Project: Takes a long time to complete, involves a large investment of resources, and items are produced one at a time, often tailored to meet specific customer requirements. e.g one-off constructtion projects (e.g luxury yachts).
+     b. Batch Production: Products are made in groups or batches in a moderate volume.
+	 c. Mass Production: Large quantities of identical products are made in a high volume.
+	 d. Continuous Production: Products are made continuously in very high volume, 24/7, using highly automated systems.
+
+105.) Explain the "Product Process Matrix".
+ANS: The production matrix is a tool that matches the production processes of a product to its volume and standardization requirements. Projects which involve low volume and high customization are suitable for unique items. Batch production is ideal for making products in groups which require moderate volume and standardization. Mass production is used for high volume, standardized goods like cars. Continuous production is used for extremely high-volume, uniform outputs such as oil refineries, electricity, and treated water. The matrix helps companies align their production methods with their product strategy.

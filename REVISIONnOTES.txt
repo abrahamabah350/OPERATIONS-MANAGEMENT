@@ -1,6 +1,0 @@
-The project organization works best when:
-1.) Work can be broken down into specific goals and deadlines.
-2.) The job is unfarmiliar to the existing organization.
-3.) The work has complex tasks requiring specialized skills.
-4.) The project is temporary but critical to the organization.
-5.) The project cuts across organizational lines.

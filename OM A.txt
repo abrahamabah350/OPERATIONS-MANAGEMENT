@@ -1,0 +1,63 @@
+90.) a. good and best practices | implemented.
+     b. non-conformity, gaps, and shortcomings.
+     c. good practices introduced or implemented | similar projects | organization/industry.
+     d. offer assistance | positive manner | improve implementation | processes | raise productivity.
+iisp.
+
+91.) a. identify all the good and best practices to be implemented.
+     b. identify non-conformity, gaps, and shortcomings.
+     c. share good practices introduced or implemented in similar projects in the organization or industry.
+     d. proactively offer assistance in a positive manner to improve implementation of processes to raise productivity.
+
+92.) a. process analysis.
+     b. follows the steps.
+     c. process improvement plan.
+     d. identify needed improvements.
+     e. examine.
+     f. problems experienced, constraints experienced, and non-value-added activities.
+     g. process operation.
+     h. root cause analysis.
+     i. identify a problem.
+     j. discover underlying causes.
+     k. develop preventive actions.
+
+93.) process analysis follows the steps outlined in the process improvement plan to identify needed improvements. this analysis examines the problems experienced, constraintes experienced, and non-value-added activities identified in the process operation. process analysis includes root cause analysis - a specific technique used to identify a problem, discover the underlying causes leading to it, and develop preventive actions.
+
+94.) an inspection is an examination of a product to determine if its conforms to documented standards.
+
+95.) a. inbound and outbound transportation.
+     b. warehousing and inventory control.
+     c. sourcing, procurement, and supply management.
+     d. forecasting, production planning, and scheduling.
+
+96.) a. materials flow.
+     b. data/information flow.
+     c. money flow.
+
+97.) a. sc strategy/design.
+     b. sc planning.
+     c. sc operation.
+
+98.) a. cycle view: categorizes supply chain processes into a series of cycles.
+     b. pull/push view: categorizes supply chain processes based on whether they are in response to a customer order or in anticipation of customer orders.
+
+99.) a. crm.
+     b. iscm.
+     c. srm.
+
+100.) product development strategy requires a company to list the portfolio of products it intends to build and whether it would outsource them or build them internally.
+
+101.) manufacturing systems refer to organized arrangements and processes that are used to transform raw materials and resources into finished goods.
+
+102.) a. primary industry: exploits raw materials and resources.
+      b. secondary industry: collects the raw materials and resources from the primary industries and converts them to consumer goods.
+      c. tertiary industry: deals with services.
+
+103.) a. make to order: in response to customer orders.
+      b. make to stock: in anticipation of customer orders.
+      c. assemble to order: build a base to assemble a product.
+
+104.) a. project.
+      b. batch.
+      c. mass
+      d. continuous.

@@ -1,4 +1,0 @@
-- inbound and outbound transportation.
-- warehousing and inventory control.
-- sourcing, procurement, and supply management.
-- forecasting, production planning, and scheduling.
